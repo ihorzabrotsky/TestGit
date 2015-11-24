@@ -18,6 +18,8 @@
     [super viewDidLoad];
     
     NSLog(@"view Did Appear");
+    
+    NSLog(@"Some stupid log");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
